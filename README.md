@@ -2,13 +2,13 @@
 Repository containing all the machine learning models and project completed by me for academic and self learningy purposes. Presented in the form of iPython Notebooks.
 
 ## Machine_learning_models:
-- ## [Linear_Regression](machine learning models/Linear_Regression.ipynb): 
+-  [Linear_Regression](https://github.com/karishma2361998/machine-learning/blob/1e98c14917ce8db5f9bbe4211080229b35fe8b5b/machine%20learning%20models/Linear_Regression.ipynb): 
 
-- ## [Logistic_Regression]:
+-  [Logistic_Regression](https://github.com/karishma2361998/machine-learning/blob/1e98c14917ce8db5f9bbe4211080229b35fe8b5b/machine%20learning%20models/Logistic_Regression.ipynb):
 
-- ## [Support_Vector_Machines]:
+-  [Support_Vector_Machines](https://github.com/karishma2361998/machine-learning/blob/1e98c14917ce8db5f9bbe4211080229b35fe8b5b/machine%20learning%20models/Support%20Vector%20Machines.ipynb):
 
-- ## [All_classification_model]:
+-  [All_classification_model]:
 
 ## Red-Wine-Quality-Prediction_project:
 Wine is an alcoholic beverage made from fermented grapes. Yeast consumes the sugar in the grapes and converts it to ethanol, carbon dioxide, and heat. It is a pleasant tasting alcoholic beverage, loved cellebrated . It will definitely be interesting to analyze the physicochemical attributes of wine and understand their relationships and significance with wine quality and types classifications. To do this, We will proceed according to the standard Machine Learning  like random forest classifer. and created a case study which is present in 'notebook.ipynb' file.
