@@ -10,7 +10,7 @@ _Tools : scikit-learn, numpy, Pandas, Seaborn, Matplotlib_
 
 -  [Support_Vector_Machines](https://github.com/karishma2361998/machine-learning/blob/1e98c14917ce8db5f9bbe4211080229b35fe8b5b/machine%20learning%20models/Support%20Vector%20Machines.ipynb): In this model we are using iris flower data set to predict the species of Iris flower by their features.
 
--  [All_classification_model](https://github.com/karishma2361998/machine-learning/blob/372834f7ef2a198a4f4282cb9f0f25fece9871d4/machine%20learning%20models/titanic(all%20classification%20model).ipynb):
+-  [All_classification_model](https://github.com/karishma2361998/machine-learning/blob/372834f7ef2a198a4f4282cb9f0f25fece9871d4/machine%20learning%20models/titanic(all%20classification%20model).ipynb): we are using titanic_dataset for all classification model to predict whether or not they survived the sinking of the Titanic.
 
 ## Red-Wine-Quality-Prediction_project:
 Wine is an alcoholic beverage made from fermented grapes. Yeast consumes the sugar in the grapes and converts it to ethanol, carbon dioxide, and heat. It is a pleasant tasting alcoholic beverage, loved cellebrated . It will definitely be interesting to analyze the physicochemical attributes of wine and understand their relationships and significance with wine quality and types classifications. To do this, We will proceed according to the standard Machine Learning  like random forest classifer. and created a case study which is present in 'notebook.ipynb' file.
