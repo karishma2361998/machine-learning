@@ -2,11 +2,11 @@
 Repository containing all the machine learning models and project completed by me for academic and self learningy purposes. Presented in the form of iPython Notebooks.
 
 ## Machine_learning_models:
--  [Linear_Regression](https://github.com/karishma2361998/machine-learning/blob/1e98c14917ce8db5f9bbe4211080229b35fe8b5b/machine%20learning%20models/Linear_Regression.ipynb): 
+-  [Linear_Regression](https://github.com/karishma2361998/machine-learning/blob/1e98c14917ce8db5f9bbe4211080229b35fe8b5b/machine%20learning%20models/Linear_Regression.ipynb): In this model the company is trying to decide whether to focus their efforts on their mobile app experience or their website.
 
--  [Logistic_Regression](https://github.com/karishma2361998/machine-learning/blob/1e98c14917ce8db5f9bbe4211080229b35fe8b5b/machine%20learning%20models/Logistic_Regression.ipynb):
+-  [Logistic_Regression](https://github.com/karishma2361998/machine-learning/blob/1e98c14917ce8db5f9bbe4211080229b35fe8b5b/machine%20learning%20models/Logistic_Regression.ipynb): Here we are working with the fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement.
 
--  [Support_Vector_Machines](https://github.com/karishma2361998/machine-learning/blob/1e98c14917ce8db5f9bbe4211080229b35fe8b5b/machine%20learning%20models/Support%20Vector%20Machines.ipynb):
+-  [Support_Vector_Machines](https://github.com/karishma2361998/machine-learning/blob/1e98c14917ce8db5f9bbe4211080229b35fe8b5b/machine%20learning%20models/Support%20Vector%20Machines.ipynb): In this model we are using iris flower data set to predict the species of Iris flower by their features.
 
 -  [All_classification_model]:
 
