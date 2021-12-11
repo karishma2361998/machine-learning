@@ -1,5 +1,6 @@
 # machine learning
 Repository containing all the machine learning models and project completed by me for academic and self learningy purposes. Presented in the form of iPython Notebooks.
+
      _Tools : scikit-learn, numpy, Pandas, Seaborn, Matplotlib_
 
 ## Machine_learning_models:
