@@ -6,21 +6,21 @@ Wine is an alcoholic beverage made from fermented grapes. Yeast consumes the sug
 
 Then deploy the app for wine prediction in streamlit.This app predict the wine quality of each wine sample, which may be good , bad, average.
 
-## Following are the steps for building model:
-1.data overview
+- ## Following are the steps for building model:
+  1. data overview
 
-2.EDA
+  2. EDA
 
-3.data visualization
+  3. data visualization
 
-4.model building
+  4. model building
 
-5.hyperparameter tunning
+  5. hyperparameter tunning
 
-6.voting classifier
-## Screenshot:
-![image](https://user-images.githubusercontent.com/52526821/127506973-e5936b4b-0c54-4b8e-b426-37b36ff77963.png)
+  6. voting classifier
+- ## Screenshot:
+  ![image](https://user-images.githubusercontent.com/52526821/127506973-e5936b4b-0c54-4b8e-b426-37b36ff77963.png)
 
 
-## Dataset link:
-https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009?select=winequality-red.csv
+- ## Dataset link:
+  https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009?select=winequality-red.csv
